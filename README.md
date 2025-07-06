@@ -1,4 +1,4 @@
-# AI Agent Lab — Nana's Learning Journey 🧠🤖
+# AI Agent Lab — My Learning Journey 🧠🤖
 
 Welcome to my AI Agent Lab!
 
